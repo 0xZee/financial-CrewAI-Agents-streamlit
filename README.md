@@ -1,6 +1,9 @@
 # financial-agent
 Financial Agent (LangChain, YF Tools, Ai Crew, Groq Inference)
 
+![CrewAi App WorkFlow](workflow.png)
+
+
 ## CREW AI AGENT :
 - An advanced research assistant by leveraging LlamaIndex-powered tools into a CrewAI-powered multi-agent setup.
 - LlamaIndex is a framework enabling developers to easily build LLM-powered applications over their data; it contains production modules for indexing, retrieval, and prompt/agent orchestration.
