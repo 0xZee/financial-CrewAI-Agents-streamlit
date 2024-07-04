@@ -1,8 +1,10 @@
-# financial-agent
-Financial Agent (LangChain, YF Tools, Ai Crew, Groq Inference)
+# Financial Crew AI Agents - Streamlit App
+Financial Crew AI Agents to Get `Financial Reporting`for a specific `Stock Ticker` (AAPL, TSLA..) (LangChain, YF Tools, Ai Crew, Groq Inference)
 
 ![CrewAi App WorkFlow](workflow.png)
 
+## FINANCIAL ANALYST LANGCHAIN & CREW AI
+- Financial assitant to help pick a stock and generate a LLM powered financial reports.
 
 ## CREW AI AGENT :
 - An advanced research assistant by leveraging LangChain-powered tools into a CrewAI-powered multi-agent setup.
@@ -10,5 +12,7 @@ Financial Agent (LangChain, YF Tools, Ai Crew, Groq Inference)
 - A core use case is building a generalized QA interface enabling knowledge synthesis over complex questions.
 - Plugging a LangChain RAG pipeline as a tool into a CrewAI agent setup enables even more sophisticated/advanced research flows
 
-## FINANCIAL ANALYST LANGCHAIN & CREW AI
-- Financial assitant to help pick a stock and generate a LLM powered financial reports.
+## Run the App
+- Fork or Clone the Repo
+- Get and Put your `GROQ_API` in `.streamlit/secrets.toml`
+- Run : `streamlit run main.py`
