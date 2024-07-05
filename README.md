@@ -1,10 +1,12 @@
-# Financial Crew AI Agents - Streamlit App
-Financial Crew AI Agents to Get `Financial Reporting`for a specific `Stock Ticker` (AAPL, TSLA..) (LangChain, YF Tools, Ai Crew, Groq Inference)
+# Financial `Crew AI` Agents - Streamlit App
+Financial Crew AI Agents to Get `Financial Reporting`for a specific `Stock Ticker` (AAPL, TSLA..) (Crew Ai, LangChain, YF Tools, Groq Inference)
 
 ![CrewAi App WorkFlow](workflow.png)
 
 ## FINANCIAL ANALYST LANGCHAIN & CREW AI
-- Financial assitant to help pick a stock and generate a LLM powered financial reports.
+- Financial assitant to help pick a  `Stock Ticker` and generate a LLM powered financial report`.
+
+![Financial agents App](crewaifin.jpg)
 
 ## CREW AI AGENT :
 - An advanced research assistant by leveraging LangChain-powered tools into a CrewAI-powered multi-agent setup.
