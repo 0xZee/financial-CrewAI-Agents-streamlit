@@ -6,7 +6,7 @@ Financial Crew AI Agents to Get `Financial Reporting`for a specific `Stock Ticke
 ## FINANCIAL ANALYST LANGCHAIN & CREW AI
 - Financial assitant to help pick a  `Stock Ticker` and generate a LLM powered financial report`.
 
-![Financial agents App](crewaifin.jpg)
+![Financial agents App](crewaifin.JPG)
 
 ## CREW AI AGENT :
 - An advanced research assistant by leveraging LangChain-powered tools into a CrewAI-powered multi-agent setup.
