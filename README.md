@@ -17,4 +17,4 @@ Financial Crew AI Agents to Get `Financial Reporting`for a specific `Stock Ticke
 ## Run the App
 - Fork or Clone the Repo
 - Get and Put your `GROQ_API` in `.streamlit/secrets.toml`
-- Run : `streamlit run main.py`
+- Run : `streamlit run fin_app.py`
